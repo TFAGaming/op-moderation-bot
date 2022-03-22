@@ -1,4 +1,4 @@
-# _Best Discord Moderation Bot_ - V2.0
+# _OP Moderation Bot_ - V2.0
 
 ## 👋 • Welcome! 
 > **Thanks for using T.F.A's Bot Projects!** This project is very special and can secure your Discord Server / Community with the Best Moderation commands and the System Auto-Moderation. (***Anti-Swear is available only for now.***)
