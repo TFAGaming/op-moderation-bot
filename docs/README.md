@@ -4,7 +4,7 @@
 > **Thanks for using T.F.A's Bot Projects!** This project is very special and can secure your Discord Server / Community with the Best Moderation commands and the System Auto-Moderation. (***Anti-Swear is available only for now.***)
 
 ## ✅ • Bot Features:
-> T.F.A's Tools is an Advanced Discord Moderation Bot with the latest package **Discord.js V13** and **Mongo.DB**. This project is **Full of Epic Features**: `Moderation`, `Auto-Mod`, `Games`, `Fun`, `Information` and `Utility`
+> T.F.A's Tools (My Bot, which using this code) is an Advanced Discord Moderation Bot with the latest package **Discord.js V13** and **Mongo.DB**. This project is **Full of Epic Features**: `Moderation`, `Auto-Mod`, `Games`, `Fun`, `Information` and `Utility`
 
 ## 🤖 • Setup the Bot:
 
