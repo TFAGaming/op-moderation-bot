@@ -1,0 +1,11 @@
+module.exports = {
+    name: '',
+    aliases: [""],
+    utilisation: '{prefix}',
+
+    execute(client, message, args) {
+
+
+          
+    },
+};
