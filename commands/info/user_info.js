@@ -7,7 +7,7 @@ module.exports = {
 
     execute(client, message, args) {
       
-      let member = message.mentions.users.first() || message.member;
+      let member = message.mentions.members.first() || message.member;
 
       const statuses = {
         online: "Online",
