@@ -1,4 +1,5 @@
 ## 🔄 • List of Updates:
+- [x] Updates are applied on the official replit project: [Click Here.](https://replit.com/@TFA1/The-Best-Discord-Moderation-Bot-of-2022#index.js)
 > ** **
 > - **Update [1.0.0]:**
 > 
